@@ -2,7 +2,7 @@
 
 Luxury bridal mehndi and bespoke henna artistry website designed with refined typography, botanical flourishes, and an editorial wedding aesthetic.
 
-![Henna by Kushangi](https://images.unsplash.com/photo-1610030469983-98e550d6193c?auto=format&fit=crop&w=1200&q=80)
+![Henna by Kushangi](https://instagram.famd5-3.fna.fbcdn.net/v/t51.82787-19/767483331_18084912050269250_5042870270800362770_n.jpg?efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=instagram.famd5-3.fna.fbcdn.net&_nc_cat=102&_nc_oc=Q6cZ2gEuD-8yVfpmwf5hSjx3zPvzXbwQgUFdinknJJ-wbmrYAAf9N1MkbPg98cu1ZHzJixcFnPdRvY0mQYwbglvQoZv9&_nc_ohc=-y9ozsxUlIcQ7kNvwFt4C_7&_nc_gid=SJUhaVAKImVfj-p5RFGeDQ&edm=AP4sbd4BAAAA&ccb=7-5&oh=00_AQJAq-EE1qepeNxkplqazFrLnnYL-2kYFzFlvf05N9O8EA&oe=6AA96D4C&_nc_sid=7a9f4b)
 
 ---
 
