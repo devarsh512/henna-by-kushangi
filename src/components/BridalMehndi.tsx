@@ -1,11 +1,11 @@
 import React from 'react';
 import { motion } from 'motion/react';
-import { WORK_IMAGE_1, resolveImageUrl } from '../brandConfig';
+import { BRIDAL_IMAGE, resolveImageUrl } from '../brandConfig';
 import { BotanicalDivider, SideVineFlourish } from './BotanicalIllustrations';
 import { useCustomPhoto } from '../hooks/useCustomPhotos';
 
 export const BridalMehndi: React.FC = () => {
-  const defaultBridalImg = resolveImageUrl(WORK_IMAGE_1, 'bridalMain');
+  const defaultBridalImg = resolveImageUrl(BRIDAL_IMAGE, 'bridalMain');
   const { src: bridalImg } = useCustomPhoto('bridalMain', defaultBridalImg);
 
   return (
