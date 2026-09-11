@@ -5,7 +5,7 @@ import { BotanicalDivider, SideVineFlourish } from './BotanicalIllustrations';
 import { useCustomPhoto } from '../hooks/useCustomPhotos';
 
 export const BridalMehndi: React.FC = () => {
-  const defaultBridalImg = resolveImageUrl(BRIDAL_IMAGE, 'bridalMain');
+  const defaultBridalImg = resolveImageUrl(WORK_IMAGE_1, 'bridalMain');
   const { src: bridalImg } = useCustomPhoto('bridalMain', defaultBridalImg);
 
   return (
