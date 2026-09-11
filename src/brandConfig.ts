@@ -27,9 +27,12 @@ export const LOGO_IMAGE = "/images/logo.png";
 // Hero Banner Image (Post_01.jpeg -> /images/hero.jpg)
 export const HERO_IMAGE = "/images/hero.jpg";
 
+// Bespoke Bridal Couture Feature Image (bridal.jpg)
+export const BRIDAL_IMAGE = "/images/bridal.jpg";
+
 // 8 Portfolio Work Images in Given Order:
 // 1. Post_02.jpeg -> Lotus hand and wrist henna
-export const WORK_IMAGE_1 = "/images/bridal.jpg";
+export const WORK_IMAGE_1 = "/images/work1.jpg";
 // 2. WhatsApp Image ... 10.32.27 AM (1).jpeg -> Back hand mandala in garden
 export const WORK_IMAGE_2 = "/images/work2.jpg";
 // 3. WhatsApp Image ... 10.32.29 AM (1).jpeg -> Feet & ankle mehndi with swans
